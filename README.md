@@ -13,7 +13,7 @@ Each project reflects **practical SOC workflows**, focusing on alert triage, log
 
 ---
 
-## 🛡️ Certifications
+## 📈 Certifications
 - **CompTIA Security+**
 - **CompTIA Network+**
 - **CompTIA A+**
