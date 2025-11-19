@@ -1,6 +1,4 @@
-# 
-
-👨‍💻 About Me
+##  👨‍💻 About Me  
 👋 Hi, my name is **Caleb Kim**. I'm an IT professional with 5 years of enterprise systems support and analysis experience, now transitioning into **SOC analysis**.
 
 🔐 This portfolio highlights practical security investigations across:
