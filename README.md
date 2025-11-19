@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I’m **Caleb Kim**
 
-<!--
-**Swhag/Swhag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m an **IT professional with 5 years of enterprise systems support and analysis experience**, now transitioning into **SOC analysis**.
 
-Here are some ideas to get you started:
+🔐 This portfolio highlights **practical security investigations** across:
+- Incident Response  
+- SIEM Analysis (Splunk & Elastic)  
+- Network Defense  
+- Phishing Analysis  
+- Traffic & Endpoint Triage  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Each project reflects **practical SOC workflows**, focusing on alert triage, log correlation, threat identification, and defensive reasoning.
+
+---
+
+## 🛡️ Certifications
+- **CompTIA Security+**
+- **CompTIA Network+**
+- **CompTIA A+**
+- **Microsoft Azure Fundamentals – AZ-900**
+
+---
+
+## 🎯 Focus Areas
+- SOC Level 1 Investigation  
+- SIEM/Event Log Analysis  
+- Network Traffic & PCAP Analysis  
+- MITRE ATT&CK Mapping  
+- Blue Team Operations  
+- Threat Hunting Foundations  
+
+---
+
+## 📫 Find Me
+
+- 💼 LinkedIn: *https://www.linkedin.com/in/caleb-kim1*  
+- 🌐 SOC Portfolio: [Soc-Analyst-Portfolio](https://github.com/Swhag/Soc-Analyst-Portfolio)
+
