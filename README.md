@@ -1,6 +1,7 @@
-# 👋 Hi, I’m **Caleb Kim**
+# 
 
-💻 IT professional with 5 years of enterprise systems support and analysis experience, now transitioning into **SOC analysis**.
+👨‍💻 About Me
+👋 Hi, my name is **Caleb Kim**. I'm an IT professional with 5 years of enterprise systems support and analysis experience, now transitioning into **SOC analysis**.
 
 🔐 This portfolio highlights practical security investigations across:
 - Incident Response  
@@ -12,6 +13,10 @@
 Each project reflects practical SOC workflows, focusing on alert triage, log correlation, threat identification, and defensive reasoning.
 
 ---
+
+## 🎓 Education
+Baruch College - City University of New York, New York, NY
+Bachelor’s Degree in Computer Information Systems – Cybersecurity
 
 ## 📈 Certifications
 - **CompTIA Security+**
