@@ -15,7 +15,7 @@ Each project reflects practical SOC workflows, focusing on alert triage, log cor
 ---
 
 ## 🎓 Education
-Baruch College - City University of New York, New York, NY
+**Baruch College – City University of New York**  
 Bachelor’s Degree in Computer Information Systems – Cybersecurity
 
 ## 📈 Certifications
