@@ -17,7 +17,7 @@ Bachelor’s Degree in Computer Information Systems – Cybersecurity
 ---
 
 ## 🎯 Focus Areas
-- SOC Level 1 Investigation  
+- SOC Investigation  
 - SIEM/Event Log Analysis  
 - Network Traffic & PCAP Analysis  
 - MITRE ATT&CK Mapping  
