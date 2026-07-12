@@ -1,6 +1,6 @@
 ##  👨‍💻 About Me  
 👋 Hi, my name is **Caleb Kim**  
-I’m an IT professional with 5 years of enterprise experience, currently working as a systems analyst and transitioning into SOC analysis with a focus on SIEM investigation, alert triage, and defensive security operations.
+I’m a cybersecurity professional with 6 years of enterprise IT and cybersecurity experience, currently working as a Threat Detection & Response Analyst focused on SIEM investigations, alert triage, incident analysis and defensive security operations.
 
 ---
 
