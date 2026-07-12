@@ -1,5 +1,6 @@
 ##  👨‍💻 About Me  
 👋 Hi, my name is **Caleb Kim**  
+
 I’m a cybersecurity professional with 6 years of enterprise IT and cybersecurity experience, currently working as a Threat Detection & Response Analyst focused on SIEM investigations, alert triage, incident analysis and defensive security operations.
 
 ---
